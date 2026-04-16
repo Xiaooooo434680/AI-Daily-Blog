@@ -1,6 +1,7 @@
 # AI Daily Blog
 
 从 Karpathy 推荐的 92 个顶级技术博客中抓取 RSS 源，由 AI 生成每日精选摘要日报。
+<img width="516" height="273" alt="image" src="https://github.com/user-attachments/assets/1366843f-139d-45b0-8462-b3ae26171070" />
 
 ## 特性
 
