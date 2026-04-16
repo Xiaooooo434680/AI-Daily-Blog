@@ -70,23 +70,8 @@ npx tsx scripts/rss-fetcher.ts --hours 48
 
 ### 📦 输出示例
 
-```json
-{
-  "sourceCount": 92,
-  "totalArticles": 2488,
-  "filteredArticles": 309,
-  "timeWindow": 48,
-  "articles": [
-    {
-      "title": "文章标题",
-      "link": "https://...",
-      "source": "博客名",
-      "published": "2026-04-16T10:00:00.000Z",
-      "summary": "文章摘要..."
-    }
-  ]
-}
-```
+<img width="713" height="496" alt="image" src="https://github.com/user-attachments/assets/ef88d3af-76ff-430a-9809-60fa4cefbbea" />
+
 
 ### 🤝 生成日报
 
