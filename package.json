@@ -1,0 +1,26 @@
+{
+  "name": "ai-daily-blog",
+  "version": "1.0.0",
+  "description": "从 Karpathy 推荐的 92 个技术博客抓取 RSS，生成 AI 精选摘要日报",
+  "type": "module",
+  "scripts": {
+    "fetch": "tsx scripts/rss-fetcher.ts",
+    "fetch:48h": "tsx scripts/rss-fetcher.ts --hours 48",
+    "fetch:24h": "tsx scripts/rss-fetcher.ts --hours 24"
+  },
+  "keywords": [
+    "rss",
+    "ai",
+    "blog",
+    "aggregator",
+    "tech-news"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
